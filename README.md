@@ -1,2 +1,3 @@
 # projects
-Various computer science school and side projects involving various program mind languages 
+Various computer science school and side projects involving various programming languages from c++ and python to JavaScript and html
+ 
